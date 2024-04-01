@@ -61,4 +61,37 @@ This project requires Python 3 and the following Python libraries installed:
 
 # Screen Shots
 
-<picture> <img alt="" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"></picture>
+<picture> 
+  <img alt="" src="Pics/prob1.png">
+</picture>
+<picture>
+  <img alt="" src="Pics/prob2.png">
+</picture>
+<picture> 
+  <img alt="" src="Pics/prob3.png">
+</picture>
+<picture>
+  <img alt="" src="Pics/prob4.png">
+</picture>
+<picture> 
+  <img alt="" src="Pics/prob5.png">
+</picture>
+<picture>
+  <img alt="" src="Pics/prob6.png">
+</picture>
+<picture> 
+  <img alt="" src="Pics/prob7.png">
+</picture>
+<picture>
+  <img alt="" src="Pics/prob8.png">
+</picture>
+<picture> 
+  <img alt="" src="Pics/prob9.png">
+</picture>
+<picture>
+  <img alt="" src="Pics/prob10.png">
+</picture>
+<picture> 
+  <img alt="" src="Pics/all.png">
+</picture>
+
